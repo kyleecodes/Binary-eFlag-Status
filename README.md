@@ -1,4 +1,4 @@
-# eFlagStatus.asm
+# Binary Eflags Status
 An Assembly program that displays the status of eflags when given certain operations.
 
 "Eflags" are the fundamental registers in Intel x86 microprocessors that contain the current state of the processor.
